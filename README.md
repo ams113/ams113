@@ -32,8 +32,10 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 ---
 
 #### :sushi: Resources
-&nbsp; :rice_ball: [Shields]
-&nbsp; :rice_ball:  [Simple icons][simpleIcons]
+- :rice_ball: [Shields][shields]
+- :rice_ball:  [Simple icons][simpleIcons]
+- :rice_ball:  [Avatars][avatar]
+
 
 ---
 
@@ -57,9 +59,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 <img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
-<br/><br/>
 
----
 
 
 
@@ -68,6 +68,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 [website]: www.google.es
 [shields]:https://shields.io/
 [simpleIcons]:https://simpleicons.org/
+[avatar]:https://getavataaars.com/
 [nodebasic1]:https://github.com/ams113/01-node-basic-multiplication--table
 [nodebasic2]:https://github.com/ams113/todo-node
 [nodebasic3]:https://github.com/ams113/weather-app-node
