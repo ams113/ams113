@@ -1,5 +1,5 @@
 
-<img align="right" alt="HTML5" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="HTML5" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### Hi [Toni's Code][website] here :wave: 
 
