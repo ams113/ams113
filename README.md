@@ -34,15 +34,12 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
----
-| [top](#github-custom-emoji) | :neckbeard: | `:neckbeard:` | :octocat: | `:octocat:` | [top](#table-of-contents) |
-
 ### :computer: Web Developer Github Proyects 
 ``All the projects that may be interesting``
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node Basics 
 
--  :triangular_flag_on_post: [01 - Multiplication table ][nodebasic1] 
+-  :triangular_flag_on_post: [01 - Multiplication table ][nodebasic1]  :octocat:
 -  :triangular_flag_on_post: [02 - TODO Node ][nodebasic2]
 -  :triangular_flag_on_post: [03 - Terminal Weather App ][nodebasic3]
 -  :triangular_flag_on_post: [04 - Server CRUD Basic ][nodebasic4]
