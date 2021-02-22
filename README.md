@@ -1,7 +1,8 @@
 
 <img align="right" alt="HTML5" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 ### Hi [Toni's Code][website] here :wave: 
-<!-- RRSS -->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/toni7mtz?color=%231DA1F2&label=Tonimtz&logo=twitter&style=for-the-badge)](https://twitter.com/toni7mtz)
 
 <p style='text-align: justify;'>
