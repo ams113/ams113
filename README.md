@@ -10,8 +10,6 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 <img align="right" alt="HTML5" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
----
-
 ### :rocket: Coding
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -36,6 +34,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+---
+| [top](#github-custom-emoji) | :neckbeard: | `:neckbeard:` | :octocat: | `:octocat:` | [top](#table-of-contents) |
 
 ### :computer: Web Developer Github Proyects 
 ``All the projects that may be interesting``
