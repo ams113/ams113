@@ -60,7 +60,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 #### :sushi: Resources
 - :rice_ball: [Shields][shields]
--- :rice_ball: [Tecnology Shields][shields2]
+- :rice_ball: [Tecnology Shields][shields2]
 - :rice_ball:  [Simple icons][simpleIcons]
 - :rice_ball:  [Avatars][avatar]
 
