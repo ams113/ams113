@@ -42,7 +42,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node Basics 
 
--   [01 - Multiplication table ][nodebasic1] :triangular_flag_on_post:
+-  :triangular_flag_on_post: [01 - Multiplication table ][nodebasic1] 
 -  :triangular_flag_on_post: [02 - TODO Node ][nodebasic2]
 -  :triangular_flag_on_post: [03 - Terminal Weather App ][nodebasic3]
 -  :triangular_flag_on_post: [04 - Server CRUD Basic ][nodebasic4]
