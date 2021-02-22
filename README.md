@@ -1,5 +1,4 @@
 
-<img align="right" alt="HTML5" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### Hi [Toni's Code][website] here :wave: 
 
@@ -9,7 +8,8 @@
 Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software engineer from Alicante (Spain). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, security, and code quality of the things I build.
 </p>
 
----
+<img align="right" alt="HTML5" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 ### :computer: Web Developer Github Proyects 
 ``All the projects that may be interesting``
 
