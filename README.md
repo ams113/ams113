@@ -63,8 +63,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
  
  ---
  
-### 💊 sources of knowledge
-- 🔸 [Fernando herrera courses][fkfh]
+### 💊 Sources of Knowledge
+- 🔸 [Fernando Herrera courses][fkfh]
 
 
 
