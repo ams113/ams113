@@ -60,8 +60,11 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 - :rice_ball: [Tecnology Shields][shields2]
 - :rice_ball:  [Simple icons][simpleIcons]
 - :rice_ball:  [Avatars][avatar]
-
-
+ 
+ ---
+ 
+### 💊 sources of knowledge
+- 🔸 [Fernando herrera courses][fkfh]
 
 
 
@@ -85,3 +88,4 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 [instaclone2]:https://github.com/ams113/BackEnd-Instaclone
 [adminpro1]:https://github.com/ams113/adminpro-udemy
 [adminpro2]:https://github.com/ams113/backend-server-udemy-avd
+[fkfh]:https://fernando-herrera.com/#/home
