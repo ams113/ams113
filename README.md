@@ -42,7 +42,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 -  :octocat: [01 - Multiplication table ][nodebasic1] 
 -  :octocat: [02 - TODO Node ][nodebasic2]
 -  :octocat: [03 - Terminal Weather App ][nodebasic3]
--  :octocat: [04 - Server CRUD Basic ][nodebasic4]
+-  :octocat: [04 - Server CRUD ][nodebasic4]
+-  :octocat: [05 - Example App public queue with socket.io][nodebasic5]
        
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React 
 - :octocat: [01 - FrondEnd Instaclone ][instaclone1]  
@@ -67,12 +68,14 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 - 🔸 [Fernando Herrera courses][fkfh]
 
 
-
-
-
-
-
-
+#### 🎧 Spotify podcast that I like
+ -  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)
+ -  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)
+ -  🐉 [Aquí hay dragones](https://open.spotify.com/show/04KgPyGwvYx0IfYoqauNxs?si=HN3SBT8jQCmxA2F9qirLNw)
+ -  🐱 [NoSoloTech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=W_EbKivdSJS-3ehPR2M2nA)
+ -  📡 [Coffe Break: Señal y Ruido](https://open.spotify.com/show/5FpBuACKsfTWSptjLjbG8Y?si=zeQOpog5Sr2iepYr1k_Vkw)
+ -  🍤 [Mi año favorito](https://open.spotify.com/show/4a6rFJtPbH3Yww595WpsMA?si=lPeqYOnVQlSQPzo0Q9QiuA)
+ 
 
 <!-- Links  -->
 [website]: www.google.es
@@ -84,6 +87,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 [nodebasic2]:https://github.com/ams113/todo-node
 [nodebasic3]:https://github.com/ams113/weather-app-node
 [nodebasic4]:https://github.com/ams113/Basic-RESTserver
+[nodebasic5]:https://github.com/ams113/basic-socket-mercury
 [instaclone1]:https://github.com/ams113/Front-instaclone
 [instaclone2]:https://github.com/ams113/BackEnd-Instaclone
 [adminpro1]:https://github.com/ams113/adminpro-udemy
