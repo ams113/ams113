@@ -67,7 +67,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 #### 💊 Sources of Knowledge
 - 🔸 [Fernando Herrera courses][fkfh]
 
-
+ ---
+ 
 #### 🎧 Spotify podcast that I like
  -  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)
  -  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)
