@@ -57,9 +57,10 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 ---
 
 #### :sushi: Resources
-<table<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0">
   <tr>
  <td>
+   
 - :rice_ball: [Shields][shields]
 
 - :rice_ball: [Tecnology Shields][shields2]
@@ -76,7 +77,9 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 - :rice_ball: [Navis App][navis]
 
- </td></tr></table>
+ </td>
+ </tr>
+ </table>
  
  ---
  
