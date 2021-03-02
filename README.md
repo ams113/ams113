@@ -65,7 +65,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 - :rice_ball: [Omatsuri Frontend Tools][omatsuri]
 - :rice_ball: [Awesome Github Profiles][awesome-github-profile]
 - :rice_ball: [Navis App][navis]
-- 
+
  ---
  
 #### 💊 Sources of Knowledge
