@@ -89,17 +89,12 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
  ---
  
 #### 🎧 Spotify podcast that I like
- &nbsp;&nbsp;&nbsp;&nbsp;  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)
- 
- &nbsp;&nbsp;&nbsp;&nbsp;  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)
- 
- &nbsp;&nbsp;&nbsp;&nbsp;  🐉 [Aquí hay dragones](https://open.spotify.com/show/04KgPyGwvYx0IfYoqauNxs?si=HN3SBT8jQCmxA2F9qirLNw)
- 
- &nbsp;&nbsp;&nbsp;&nbsp;  🐱 [NoSoloTech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=W_EbKivdSJS-3ehPR2M2nA)
- 
- &nbsp;&nbsp;&nbsp;&nbsp;  📡 [Coffe Break: Señal y Ruido](https://open.spotify.com/show/5FpBuACKsfTWSptjLjbG8Y?si=zeQOpog5Sr2iepYr1k_Vkw)
- 
- &nbsp;&nbsp;&nbsp;&nbsp;  🍤 [Mi año favorito](https://open.spotify.com/show/4a6rFJtPbH3Yww595WpsMA?si=lPeqYOnVQlSQPzo0Q9QiuA)
+ &nbsp;&nbsp;&nbsp;&nbsp;  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)  
+ &nbsp;&nbsp;&nbsp;&nbsp;  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)  
+ &nbsp;&nbsp;&nbsp;&nbsp;  🐉 [Aquí hay dragones](https://open.spotify.com/show/04KgPyGwvYx0IfYoqauNxs?si=HN3SBT8jQCmxA2F9qirLNw)  
+ &nbsp;&nbsp;&nbsp;&nbsp;  🐱 [NoSoloTech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=W_EbKivdSJS-3ehPR2M2nA)  
+ &nbsp;&nbsp;&nbsp;&nbsp;  📡 [Coffe Break: Señal y Ruido](https://open.spotify.com/show/5FpBuACKsfTWSptjLjbG8Y?si=zeQOpog5Sr2iepYr1k_Vkw)  
+ &nbsp;&nbsp;&nbsp;&nbsp;  🍤 [Mi año favorito](https://open.spotify.com/show/4a6rFJtPbH3Yww595WpsMA?si=lPeqYOnVQlSQPzo0Q9QiuA)  
  
 
 <!-- Links  -->
