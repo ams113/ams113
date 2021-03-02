@@ -58,9 +58,11 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 #### :sushi: Resources
 - :rice_ball: [Shields][shields]                  | - :rice_ball: [Tecnology Shields][shields2]
-- :rice_ball: [Simple icons][simpleIcons]         | - :rice_ball: [Avatars][avatar]
-- :rice_ball: [Omatsuri Frontend Tools][omatsuri] | - :rice_ball: [Awesome Github Profiles][awesome-github-profile]
 - -----------------------------------------------------------------------------------------------------------------
+- :rice_ball: [Simple icons][simpleIcons]         | - :rice_ball: [Avatars][avatar]
+- -----------------------------------------------------------------------------------------------------------------
+- :rice_ball: [Omatsuri Frontend Tools][omatsuri] | - :rice_ball: [Awesome Github Profiles][awesome-github-profile]
+-----------------------------------------------------------------------------------------------------------------
 - :rice_ball: [Navis App][navis]
  
  ---
