@@ -39,47 +39,35 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node Basics 
 
-&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [01 - Multiplication table ][nodebasic1] 
-
-&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [02 - TODO Node ][nodebasic2]
-
-&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [03 - Terminal Weather App ][nodebasic3]
-
-&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [04 - Server CRUD ][nodebasic4]
-
-&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [05 - Example App public queue with socket.io][nodebasic5]
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [01 - Multiplication table ][nodebasic1]  
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [02 - TODO Node ][nodebasic2]  
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [03 - Terminal Weather App ][nodebasic3]  
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [04 - Server CRUD ][nodebasic4]  
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [05 - Example App public queue with socket.io][nodebasic5]  
        
        
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React 
 
 &nbsp;&nbsp;&nbsp;&nbsp; :octocat: [01 - FrondEnd Instaclone ][instaclone1]  
-
-&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd Instaclone ][instaclone2]
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd Instaclone ][instaclone2]  
 
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> Angular 
 
-&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [01 - FrontEnd AdminPro ][adminpro1]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd AdminPro ][adminpro2]
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [01 - FrontEnd AdminPro ][adminpro1]  
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd AdminPro ][adminpro2]  
 
 ---
 
 #### :sushi: Resources
 
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Shields][shields]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Tecnology Shields][shields2]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Simple icons][simpleIcons]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Avatars][avatar]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Omatsuri Frontend Tools][omatsuri]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Awesome Github Profiles][awesome-github-profile]
-
-&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Navis App][navis]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Shields][shields]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Tecnology Shields][shields2]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Simple icons][simpleIcons]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Avatars][avatar]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Omatsuri Frontend Tools][omatsuri]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Awesome Github Profiles][awesome-github-profile]  
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Navis App][navis]  
 
  ---
  
