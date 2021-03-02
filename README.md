@@ -39,32 +39,32 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node Basics 
 
--  :octocat: [01 - Multiplication table ][nodebasic1] 
--  :octocat: [02 - TODO Node ][nodebasic2]
--  :octocat: [03 - Terminal Weather App ][nodebasic3]
--  :octocat: [04 - Server CRUD ][nodebasic4]
--  :octocat: [05 - Example App public queue with socket.io][nodebasic5]
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [01 - Multiplication table ][nodebasic1] 
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [02 - TODO Node ][nodebasic2]
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [03 - Terminal Weather App ][nodebasic3]
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [04 - Server CRUD ][nodebasic4]
+&nbsp;&nbsp;&nbsp;&nbsp;  :octocat: [05 - Example App public queue with socket.io][nodebasic5]
        
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React 
-- :octocat: [01 - FrondEnd Instaclone ][instaclone1]  
-- :octocat: [02 - BackEnd Instaclone ][instaclone2]
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [01 - FrondEnd Instaclone ][instaclone1]  
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd Instaclone ][instaclone2]
 
 
 ####  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> Angular 
-- :octocat: [01 - FrontEnd AdminPro ][adminpro1]
-- :octocat: [02 - BackEnd AdminPro ][adminpro2]
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [01 - FrontEnd AdminPro ][adminpro1]
+&nbsp;&nbsp;&nbsp;&nbsp; :octocat: [02 - BackEnd AdminPro ][adminpro2]
 
 ---
 
 #### :sushi: Resources
 
-- :rice_ball: [Shields][shields]
-- :rice_ball: [Tecnology Shields][shields2]
-- :rice_ball: [Simple icons][simpleIcons]
-- :rice_ball: [Avatars][avatar]
-- :rice_ball: [Omatsuri Frontend Tools][omatsuri]
-- :rice_ball: [Awesome Github Profiles][awesome-github-profile]
-- :rice_ball: [Navis App][navis]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Shields][shields]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Tecnology Shields][shields2]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Simple icons][simpleIcons]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Avatars][avatar]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Omatsuri Frontend Tools][omatsuri]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Awesome Github Profiles][awesome-github-profile]
+&nbsp;&nbsp;&nbsp;&nbsp; :rice_ball: [Navis App][navis]
 
  ---
  
@@ -74,12 +74,12 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
  ---
  
 #### 🎧 Spotify podcast that I like
- -  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)
- -  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)
- -  🐉 [Aquí hay dragones](https://open.spotify.com/show/04KgPyGwvYx0IfYoqauNxs?si=HN3SBT8jQCmxA2F9qirLNw)
- -  🐱 [NoSoloTech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=W_EbKivdSJS-3ehPR2M2nA)
- -  📡 [Coffe Break: Señal y Ruido](https://open.spotify.com/show/5FpBuACKsfTWSptjLjbG8Y?si=zeQOpog5Sr2iepYr1k_Vkw)
- -  🍤 [Mi año favorito](https://open.spotify.com/show/4a6rFJtPbH3Yww595WpsMA?si=lPeqYOnVQlSQPzo0Q9QiuA)
+ &nbsp;&nbsp;&nbsp;&nbsp;  💩 [Programar es una mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=06NQSX9LSvS-X5p3dG-zuw)
+ &nbsp;&nbsp;&nbsp;&nbsp;  ⚡ [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=fpUJa_SfSL2d_9PO4YlyBg)
+ &nbsp;&nbsp;&nbsp;&nbsp;  🐉 [Aquí hay dragones](https://open.spotify.com/show/04KgPyGwvYx0IfYoqauNxs?si=HN3SBT8jQCmxA2F9qirLNw)
+ &nbsp;&nbsp;&nbsp;&nbsp;  🐱 [NoSoloTech](https://open.spotify.com/show/0FvdAzxX11y9GEvGH6Ke0u?si=W_EbKivdSJS-3ehPR2M2nA)
+ &nbsp;&nbsp;&nbsp;&nbsp;  📡 [Coffe Break: Señal y Ruido](https://open.spotify.com/show/5FpBuACKsfTWSptjLjbG8Y?si=zeQOpog5Sr2iepYr1k_Vkw)
+ &nbsp;&nbsp;&nbsp;&nbsp;  🍤 [Mi año favorito](https://open.spotify.com/show/4a6rFJtPbH3Yww595WpsMA?si=lPeqYOnVQlSQPzo0Q9QiuA)
  
 
 <!-- Links  -->
