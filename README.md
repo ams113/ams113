@@ -62,7 +62,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 - :rice_ball: [Simple icons][simpleIcons]
 - :rice_ball: [Avatars][avatar]
 - :rice_ball: [Omatsuri Frontend Tools][omatsuri]
- 
+- :rice_ball: [Awesome Github Profiles][awesome-github-profile]
+- :rice_ball: [Navis App][navis]
  
  ---
  
@@ -87,6 +88,8 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 [simpleIcons]:https://simpleicons.org/
 [avatar]:https://getavataaars.com/
 [omatsuri]:https://omatsuri.app/
+[awesome-github-profile]:https://github.com/abhisheknaiidu/awesome-github-profile-readme
+[navis][https://recursosrecursosrecursos.netlify.app/]
 [nodebasic1]:https://github.com/ams113/01-node-basic-multiplication--table
 [nodebasic2]:https://github.com/ams113/todo-node
 [nodebasic3]:https://github.com/ams113/weather-app-node
