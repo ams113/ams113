@@ -10,7 +10,7 @@ Hi, I'm Toni Mtz, a passionate self-taught Full Stack web developer and software
 
 <img align="right" alt="HTML5" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-### :rocket: Coding
+### :rocket: Coding skills
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
